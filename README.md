@@ -2,7 +2,7 @@
 - 👀 Tenho interesse em dados em geral e gostaria de atuar como Engenheiro de Dados.
 - 🌱 Atualmente estou aprendendo SQL/NoSQL, Python, Linux, Hadoop, Docker e Airflow.
 
-# Sobre mim:
+# Sobre mim
 
 Sou o pai da Maria que acaba de fazer dois aninhos. Me formei em Administração, porém sempre me interessei por tecnologia e dados. Há alguns meses venho me preparando na tentativa 
 de migrar minha carreira.
