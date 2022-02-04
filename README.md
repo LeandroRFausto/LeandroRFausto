@@ -13,6 +13,10 @@ Se quiser me conhecer, meu whatsApp e redes sociais estão abaixo. Ah! O Instagr
   <img  align="center" src="https://image.flaticon.com/icons/png/512/220/220236.png" width='40' style="max-width:100%;"/> 
 </a>
 
+<a href = "mailto:lfausto.leandro@gmail.com" target="_blank">
+  <img align="center" alt="Leandro-gmail" width="40" src="https://cdn-icons.flaticon.com/png/128/2875/premium/2875435.png?token=exp=1644012297~hmac=3be2358a5cfe902778ab30a08ba988c8" style="max-width:100%;">
+</a>
+
 <a href="https://www.facebook.com/profile.php?id=100003586308259" target="_blank">
   <img  align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111398.png" width='40' style="max-width:100%;"/>
 </a>
