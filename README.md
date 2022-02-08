@@ -1,14 +1,13 @@
-- 👋 Olá! Eu sou o Leandro Fausto.
-- 👀 Tenho interesse em dados em geral e gostaria de atuar como Engenheiro de Dados.
-- 🌱 Atualmente estou aprendendo SQL/NoSQL, Python, Linux, Hadoop, Docker e Airflow.
-
+- Olá! Eu sou o Leandro.
+- Tenho interesse nos dados em geral e gostaria de atuar como Engenheiro de Dados.
+# Contatos
 
 <a href= "https://api.whatsapp.com/send?phone=5521987938866&text=Ol%C3%A1%20Leandro!%20Vi%20o%20seu%20github.%20Podemos%20conversar%3F" target="_blank" >
   <img  align="center" src="https://image.flaticon.com/icons/png/512/220/220236.png" width='40' style="max-width:100%;"/> 
 </a>
 
 <a href = "mailto:lfausto.leandro@gmail.com" target="_blank">
-  <img align="center" alt="Leandro-gmail" width="40" src="https://cdn-icons.flaticon.com/png/128/2875/premium/2875435.png?token=exp=1644012297~hmac=3be2358a5cfe902778ab30a08ba988c8" style="max-width:100%;">
+  <img align="center" alt="Leandro-gmail" width="50" src="https://cdn-icons.flaticon.com/png/128/2875/premium/2875435.png?token=exp=1644012297~hmac=3be2358a5cfe902778ab30a08ba988c8" style="max-width:100%;">
 </a>
 
 <a href="https://www.linkedin.com/in/leandro-rodrigues-fausto-8161b0172/" target="_blank">
