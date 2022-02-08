@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/leandro-rodrigues-fausto-8161b0172/" target="_blank">
-  <img align="center" alt="Leandro-linkedin" width="40" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" style="max-width:100%;">
+  <img align="center" alt="Leandro-linkedin" width="40" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1644363613~hmac=44c3d9a4ae5b970153608d7c771e6429" style="max-width:100%;">
 </a>
 
 <hr />
