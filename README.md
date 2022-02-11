@@ -10,7 +10,7 @@
   <img align="center" alt="Leandro-gmail" width="50" src="https://cdn-icons.flaticon.com/png/128/2875/premium/2875435.png?token=exp=1644012297~hmac=3be2358a5cfe902778ab30a08ba988c8" style="max-width:100%;">
 </a>
 
-<a href="https://www.linkedin.com/in/leandro-rodrigues-fausto-8161b0172/" target="_blank">
+<a href="https://www.linkedin.com/in/leandro-fausto-8161b0172/" target="_blank">
   <img align="center" alt="Leandro-linkedin" width="40" src="https://cdn-icons.flaticon.com/png/128/3992/premium/3992606.png?token=exp=1644363613~hmac=3a65f4aa041ad9b6269b8d6fc24f663d" style="max-width:100%;">
 </a>
 
