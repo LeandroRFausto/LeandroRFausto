@@ -3,15 +3,15 @@
 # Contatos
 
 <a href= "https://api.whatsapp.com/send?phone=5521987938866&text=Ol%C3%A1%20Leandro!%20Vi%20o%20seu%20github.%20Podemos%20conversar%3F" target="_blank" >
-  <img  align="center" src="https://image.flaticon.com/icons/png/512/220/220236.png" width='40' style="max-width:100%;"/> 
+  <img  align="center" src="https://cdn-icons.flaticon.com/png/128/3670/premium/3670051.png?token=exp=1647335957~hmac=c58ef4ea4d9c567e6f5069ed6595bf7d" width='40' style="max-width:100%;"/> 
 </a>
 
 <a href = "mailto:lfausto.leandro@gmail.com" target="_blank">
-  <img align="center" alt="Leandro-gmail" width="50" src="https://cdn-icons.flaticon.com/png/128/2875/premium/2875435.png?token=exp=1644012297~hmac=3be2358a5cfe902778ab30a08ba988c8" style="max-width:100%;">
+  <img align="center" alt="Leandro-gmail" width="50" src="https://cdn-icons.flaticon.com/png/128/2875/premium/2875435.png?token=exp=1647336025~hmac=ae4ea3dfe3ba42016feb2e9b09bfdc45" style="max-width:100%;">
 </a>
 
 <a href="https://www.linkedin.com/in/leandro-fausto-8161b0172/" target="_blank">
-  <img align="center" alt="Leandro-linkedin" width="40" src="https://cdn-icons.flaticon.com/png/128/3992/premium/3992606.png?token=exp=1644363613~hmac=3a65f4aa041ad9b6269b8d6fc24f663d" style="max-width:100%;">
+  <img align="center" alt="Leandro-linkedin" width="40" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" style="max-width:100%;">
 </a>
 
 <hr />
