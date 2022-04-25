@@ -3,11 +3,11 @@
 # Contatos
 
 <a href= "https://api.whatsapp.com/send?phone=5521987938866&text=Ol%C3%A1%20Leandro!%20Vi%20o%20seu%20github.%20Podemos%20conversar%3F" target="_blank" >
-  <img  align="center" src="https://cdn-icons.flaticon.com/png/128/3670/premium/3670051.png?token=exp=1647335957~hmac=c58ef4ea4d9c567e6f5069ed6595bf7d" width='40' style="max-width:100%;"/> 
+  <img  align="center" src="https://cdn-icons-png.flaticon.com/128/134/134937.png" width='40' style="max-width:100%;"/> 
 </a>
 
 <a href = "mailto:lfausto.leandro@gmail.com" target="_blank">
-  <img align="center" alt="Leandro-gmail" width="40" src="https://cdn-icons.flaticon.com/png/128/720/premium/720277.png?token=exp=1647336201~hmac=044e13d04b26fd55e739724cefdbca2d" style="max-width:100%;">
+  <img align="center" alt="Leandro-gmail" width="40" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504727.png?token=exp=1650920469~hmac=4caf343b9ad54f2208ad74289b33a521" style="max-width:100%;">
 </a>
 
 <a href="https://www.linkedin.com/in/leandro-fausto-8161b0172/" target="_blank">
