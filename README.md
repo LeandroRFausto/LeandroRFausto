@@ -7,7 +7,7 @@
 </a>
 
 <a href = "mailto:lfausto.leandro@gmail.com" target="_blank">
-  <img align="center" alt="Leandro-gmail" width="40" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504727.png?token=exp=1650920469~hmac=4caf343b9ad54f2208ad74289b33a521" style="max-width:100%;">
+  <img align="center" alt="Leandro-gmail" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" style="max-width:100%;">
 </a>
 
 <a href="https://www.linkedin.com/in/leandro-fausto-8161b0172/" target="_blank">
