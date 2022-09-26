@@ -27,5 +27,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="Azure" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroRFausto)](https://github.com/LeandroRFausto/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroRFausto&show_icons=true&theme=tokyonight)
